@@ -1,0 +1,8 @@
+# editor files
+.idea/*
+
+# cache files
+.pytest_cache/*
+tests/.pytest_cache/*
+src/__pycache__/*
+tests/__*
