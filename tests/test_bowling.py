@@ -13,3 +13,4 @@ def empty_frames():
 
 def test_default_initial_empty_frames(empty_frames):
     assert len(empty_frames.frames) == 0
+
